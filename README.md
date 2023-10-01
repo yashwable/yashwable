@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Yash Wable</h1>
 <h3 align="center">A passionate full Stack developer from India.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashwable" alt="yashwable" /></a> </p>
-
 - 📫 How to reach me **yashwable12@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/yash-wable-488b90203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yashwable" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/14887590/yash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="yash" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/yash-wable-488b90203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yash-wable-488b90203" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/14887590/yash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14887590/yash" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/yashwable12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="yashwable12" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/yashwable12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yashwable12" height="30" width="40" /></a>
+<a href="https://discord.gg/Bkw5nkCF" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Bkw5nkCF" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
